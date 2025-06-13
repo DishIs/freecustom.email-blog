@@ -17,8 +17,7 @@ tags:
     - user experience
     - mobile optimization
     - desktop optimization
-image: /images/blog/freecustomemail-pagespeed-banner.png # Suggest a relevant banner image
-canonicalUrl: https://yourdomain.com/blog/why-freecustomemail-is-fast
+canonicalUrl: https://www.freecustom.email/blog/why-we-are-fastest
 url: https://yourdomain.com/blog/why-freecustomemail-is-fast
 website: https://www.freecustom.email
 ---
